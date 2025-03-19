@@ -1,12 +1,27 @@
 ## Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+  -  Event Ticket Generator Tool: This application is the perfect solution for event organizers that want a fast, efficient way to let guests RSVP.
+  -  Class Chat - This application allows students to discuss and rate college courses, professors, and connect with those pursuing similar degrees.
+ 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  -  TypeScript
+  -  React
+  -  Supabase RLS
+  -  PostGreSQL
+  -  Tailwind CSS
+    
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  -  LinkedIn: www.linkedin.com/in/alexandre-wright-720b27258
+  -  Email: akwrigh7@asu.edu
+    
+- 😄 Specializations: ...
+  -  HTML
+  -  CSS
+  -  JavaScript
+  -  Supabase
+    
 - ⚡ Fun fact: ...
--->
+  -  I love horror movies.
+  -  I climbed Mount Humphrey at 5 years old.
+  -  My favorite place to shop is Costco.
