@@ -8,7 +8,7 @@
   -  TypeScript
   -  React
   -  Supabase RLS
-  -  PostGreSQL
+  -  PostgreSQL
   -  Tailwind CSS
     
 - 📫 How to reach me: ...
